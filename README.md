@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌿✨ Olá, eu sou a Kathleen!  
 
-<!--
-**KathCris/KathCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-481.gif" width="220">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍃 Sobre mim  
+- 🔭 Engenheira de software front-end e Ux designer
+- 🎨 Aprecio o universo do **Studio Ghibli**  
+- 📚 Leitora nas horas vagas  
+- 🕹️ Gosto de jogar — já joguei **Grounded**, **The Sims**, **Lethal Company** e entre outros 
+
