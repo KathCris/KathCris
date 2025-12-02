@@ -1,7 +1,7 @@
-# 🌿✨ Olá, eu sou a Kathleen!  
+# 🌿✨ Olá, sou a Kathleen!  
 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-481.gif" width="800">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-481.gif" width="600">
 </p>
 
 ---
